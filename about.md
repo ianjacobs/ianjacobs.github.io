@@ -16,4 +16,4 @@ A place to include any other types of information that you'd like to include abo
 
 ## Me!
 
-![alt text](images/me.jpeg)
+![alt text](/images/me.jpeg)
