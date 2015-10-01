@@ -13,7 +13,3 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 [ian.jacob@outlook.com](mailto:ian.jacob@outlook.com)
-
-## Me!
-
-![alt text](/images/me.jpeg)
